@@ -1,4 +1,4 @@
 # 60daysofpython
 
-- [ ] Dia 1
+- [X] Dia 1 - Olá Mundo Concluído
 - [ ] Dia 2
